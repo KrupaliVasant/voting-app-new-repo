@@ -40,11 +40,12 @@ Routes???
         /candidates: POST - create a new candidate
         /candidates/:candidateId: PUT - Update an existing candidate
         /candidates/:candidateId: DELETE - Delete a candidate from the list
-
+_____________________________________________________________________________
 
 Home Work
 1. check put and delete candidate route
 2. Admin should be only one. (add logic code in app)
+_________________________________________________________________________
 
 Git Commands
 1. git init 
