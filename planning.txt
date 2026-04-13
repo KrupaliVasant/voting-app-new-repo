@@ -50,4 +50,12 @@ Git Commands
 1. git init 
 2. git status
 3. create .gitignore file
-4.
+4. if node_modules folder added then use this Command
+    git rm -r --cached node_modules
+5. git status
+6. git add .
+7. git commit -m "add msg"
+8. create repo on github 
+9. add command (copy paste i.e git remote add origin https://github.com/KrupaliVasant/voting-app-new-repo.git)
+10. git branch -M main
+11. git push -u origin main
